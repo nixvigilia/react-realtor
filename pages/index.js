@@ -17,7 +17,7 @@ const Banner = ({
   return (
     <Flex flexWrap="wrap" justifyContent="center" alignItems="center" m="10">
       {/* need to setup next.config.js */}
-      <Image src={imageUrl} width={500} height={300} />
+      <Image src={imageUrl} width={500} height={300} alt={title1}/>
       <Box p="5">
         <Text color="gray.500" fontSize="sm" fontWeight="medium">
           {purpose}
