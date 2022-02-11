@@ -34,6 +34,8 @@ RAPID_API_KEY
 
 - Create an account in [Rapid API](https://rapidapi.com), copy and paste your API key on .env file.
 
+- Find a plan that best matches the scale you need for your application. Subscribe to [Bayut Api](https://rapidapi.com/apidojo/api/bayut/)
+
 ## Live Demo
 
 https://nixoy-react-realtor.netlify.app
