@@ -1,10 +1,8 @@
-yarn add @chakra-ui/react @emotion/react @emotion/styled axios framer-motion millify nprogress react-horizontal-scrolling-menu react-icons
-
 ## Realtor
 
-A Google clone app built using React JS (Context & Hooks), Tailwind CSS, and Google Search API powered by [Rapid API](https://rapidapi.com).
+Real Estate property finder built using React JS, Next JS, Chakra UI, and Bayut API powered by [Rapid API](https://rapidapi.com).
 
-![Screenshot 2022-02-11 013312](https://user-images.githubusercontent.com/34468449/153463969-aa9b008d-8a35-4e5f-b839-fe16b899c6fc.png)
+![Screenshot 2022-02-11 094154](https://user-images.githubusercontent.com/34468449/153531906-b3a34ece-d00c-4eb0-88eb-7b313596112a.png)
 
 ## Installation and Setup Instructions
 
@@ -34,11 +32,11 @@ To run this project, you will need to add the following environment variables to
 
 RAPID_API_KEY
 
-- Create an account in [Rapid API](https://rapidapi.com) and copy and paste your API key on .env file.
+- Create an account in [Rapid API](https://rapidapi.com), copy and paste your API key on .env file.
 
 ## Live Demo
 
-https://nixoy-react-goggl.netlify.app/search
+https://nixoy-react-realtor.netlify.app
 
 ## My key learnings from this project
 
@@ -49,3 +47,18 @@ https://nixoy-react-goggl.netlify.app/search
   -- server side rendering
 - User Interface using ChakraUI
 - Fetching data using RapidAPI
+
+## Technologies Used
+
+- React JS
+- Next JS
+- Chakra Ui
+- @chakra-ui/react
+- @emotion/react
+- @emotion/styled
+- axios
+- framer-motion
+- millify
+- nprogress
+- react-horizontal-scrolling-menu
+- react-icons
